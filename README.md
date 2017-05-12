@@ -1,5 +1,7 @@
 # hello-world
-JJ repository
+JJ Bing Bin
+JJ is today's world
 
-Today the weather is nice so here is a shoutout to the world
+Yesterday the world has become smaller
 Somehow, alternate me has an alternated idea, which should give a different mood to the day
+Tomorrow, the mood might be brighter
